@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ihub_integration_instance">
+    <sn_ihub_integration_instance action="INSERT_OR_UPDATE">
+        <description>Agent log with pipe separators added</description>
+        <integration_table>sys_data_source</integration_table>
+        <integration_type>data_import</integration_type>
+        <internal_name/>
+        <name>agent log payload</name>
+        <record_id>346d16f04760211021eaf2e7536d4322</record_id>
+        <sys_class_name>sn_ihub_integration_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-20 03:59:51</sys_created_on>
+        <sys_id>fc6d16f04760211021eaf2e7536d4320</sys_id>
+        <sys_name>agent log payload</sys_name>
+        <sys_package display_value="VaranUtil Midserver Log parser" source="x_146833_varanut_0">af1d9ab04760211021eaf2e7536d4313</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="VaranUtil Midserver Log parser">af1d9ab04760211021eaf2e7536d4313</sys_scope>
+        <sys_update_name>sn_ihub_integration_instance_fc6d16f04760211021eaf2e7536d4320</sys_update_name>
+    </sn_ihub_integration_instance>
+</record_update>

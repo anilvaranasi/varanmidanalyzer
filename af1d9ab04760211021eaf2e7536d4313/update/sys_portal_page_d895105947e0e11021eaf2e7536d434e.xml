@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2023-01-21 07:50:07">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout/>
+        <order/>
+        <read_roles>snc_internal</read_roles>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>adminanil</sys_created_by>
+        <sys_created_on>2023-01-21 07:23:24</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d895105947e0e11021eaf2e7536d434e</sys_id>
+        <sys_name>PA MidServer agent logs - New Tab</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="VaranUtil Midserver Log parser" source="x_146833_varanut_0">af1d9ab04760211021eaf2e7536d4313</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="VaranUtil Midserver Log parser">af1d9ab04760211021eaf2e7536d4313</sys_scope>
+        <sys_update_name>sys_portal_page_d895105947e0e11021eaf2e7536d434e</sys_update_name>
+        <title>PA MidServer agent logs - New Tab</title>
+        <user/>
+        <view>pa_midserver_agent_logs_-_new_tab</view>
+    </sys_portal_page>
+</record_update>

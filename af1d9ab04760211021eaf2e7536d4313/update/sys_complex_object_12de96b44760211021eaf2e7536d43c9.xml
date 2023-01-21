@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>ih_import_FD9ede96b4dd602110738fca6e4b3980c8</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>af1d9ab04760211021eaf2e7536d4313</scope_name>
+        <serialized_content>{"FlowDesigner:ih_import_FD9ede96b4dd602110738fca6e4b3980c8":{"u_datetime":"String","u_datetime.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"DateTime\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_message":"String","u_message.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Message\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_type":"String","u_type.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Type\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"}},"FlowDesigner:ih_import_FD9ede96b4dd602110738fca6e4b3980c8.$type_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"object\",\"co_type_name\":\"ih_import_FD9ede96b4dd602110738fca6e4b3980c8\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"object\",\"default_value\":\"\",\"label\":\"Excel Header\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-20 04:06:14</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>12de96b44760211021eaf2e7536d43c9</sys_id>
+        <sys_name>ih_import_FD9ede96b4dd602110738fca6e4b3980c8</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="VaranUtil Midserver Log parser" source="x_146833_varanut_0">af1d9ab04760211021eaf2e7536d4313</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="VaranUtil Midserver Log parser">af1d9ab04760211021eaf2e7536d4313</sys_scope>
+        <sys_update_name>sys_complex_object_12de96b44760211021eaf2e7536d43c9</sys_update_name>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>

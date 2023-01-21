@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="System Import Sets" source="com.glide.system_import_set">37dd52e2a5300110c0a0e1db2cdc959a</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-20 04:13:49</sys_created_on>
+        <sys_id>6d9066b84760211021eaf2e7536d43fd</sys_id>
+        <sys_package display_value="VaranUtil Midserver Log parser" source="x_146833_varanut_0">af1d9ab04760211021eaf2e7536d4313</sys_package>
+    </sys_package_dependency_m2m>
+</record_update>

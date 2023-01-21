@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="INSERT_OR_UPDATE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_146833_varanut_0_agent_log_analyser</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-20 04:28:27</sys_created_on>
+        <sys_id>27e3e2b047a0211021eaf2e7536d43db</sys_id>
+        <sys_name>x_146833_varanut_0_agent_log_analyser</sys_name>
+        <sys_package display_value="VaranUtil Midserver Log parser" source="x_146833_varanut_0">af1d9ab04760211021eaf2e7536d4313</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="VaranUtil Midserver Log parser">af1d9ab04760211021eaf2e7536d4313</sys_scope>
+        <sys_update_name>ua_table_licensing_config_27e3e2b047a0211021eaf2e7536d43db</sys_update_name>
+    </ua_table_licensing_config>
+</record_update>

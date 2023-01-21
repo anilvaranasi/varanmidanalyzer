@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="2fe3e2b047a0211021eaf2e7536d434b" extends="sys_import_set_row" label="agent log payload" max_length="40" name="x_146833_varanut_0_agent_log_analyser" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=DateTime" label="DateTime" max_length="40" name="u_datetime" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Level" label="Level" max_length="40" name="u_level" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Message" label="Message" max_length="3000" name="u_message" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Message2" label="Message2" max_length="40" name="u_message2" type="string"/>
+    </element>
+</database>

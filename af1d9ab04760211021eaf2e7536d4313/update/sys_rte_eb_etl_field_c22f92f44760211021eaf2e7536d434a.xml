@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_etl_field">
+    <sys_rte_eb_etl_field action="INSERT_OR_UPDATE">
+        <coalesce>false</coalesce>
+        <coercion_action>create</coercion_action>
+        <field>u_message</field>
+        <name>Message</name>
+        <sys_class_name>sys_rte_eb_etl_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-20 04:07:35</sys_created_on>
+        <sys_id>c22f92f44760211021eaf2e7536d434a</sys_id>
+        <sys_name>Message</sys_name>
+        <sys_package display_value="VaranUtil Midserver Log parser" source="x_146833_varanut_0">af1d9ab04760211021eaf2e7536d4313</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="agent log payload_etl_ihub">822f96344760211021eaf2e7536d4353</sys_rte_eb_definition>
+        <sys_rte_eb_entity display_value="Source_x_146833_varanut_0_ihub_import_fc6d16f04760211021eaf2e7536d4320">422f92f44760211021eaf2e7536d4345</sys_rte_eb_entity>
+        <sys_scope display_value="VaranUtil Midserver Log parser">af1d9ab04760211021eaf2e7536d4313</sys_scope>
+        <sys_update_name>sys_rte_eb_etl_field_c22f92f44760211021eaf2e7536d434a</sys_update_name>
+    </sys_rte_eb_etl_field>
+</record_update>

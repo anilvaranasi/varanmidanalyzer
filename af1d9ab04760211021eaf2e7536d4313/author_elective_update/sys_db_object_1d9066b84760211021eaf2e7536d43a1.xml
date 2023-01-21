@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access/>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>false</create_access_controls>
+        <delete_access>false</delete_access>
+        <is_extendable>false</is_extendable>
+        <label>agent log payload</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_146833_varanut_0_ihub_import_alog</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class display_value="Import Set Row" name="sys_import_set_row">6ced16e2a5300110c0a0e1db2cdc9574</super_class>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-20 04:13:49</sys_created_on>
+        <sys_id>1d9066b84760211021eaf2e7536d43a1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Varanut 0 Ihub Import Alog</sys_name>
+        <sys_package display_value="VaranUtil Midserver Log parser" source="x_146833_varanut_0">af1d9ab04760211021eaf2e7536d4313</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="VaranUtil Midserver Log parser">af1d9ab04760211021eaf2e7536d4313</sys_scope>
+        <sys_update_name>sys_db_object_1d9066b84760211021eaf2e7536d43a1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-20 04:13:49</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role/>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="VaranUtil Midserver Log parser">af1d9ab04760211021eaf2e7536d4313</application>
+        <file_path/>
+        <instance_id>faefb09cdb2ba0d07527d7c8f49619b0</instance_id>
+        <instance_name>dev111463</instance_name>
+        <name>sys_db_object_1d9066b84760211021eaf2e7536d43a1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access/><actions_access>false</actions_access><alter_access>false</alter_access><caller_access/><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>false</create_access><create_access_controls>false</create_access_controls><delete_access>false</delete_access><is_extendable>false</is_extendable><label>agent log payload</label><live_feed_enabled>false</live_feed_enabled><name>x_146833_varanut_0_ihub_import_alog</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class display_value="Import Set Row" name="sys_import_set_row">6ced16e2a5300110c0a0e1db2cdc9574</super_class><sys_class_name>sys_db_object</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-01-20 04:13:49</sys_created_on><sys_id>1d9066b84760211021eaf2e7536d43a1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Varanut 0 Ihub Import Alog</sys_name><sys_package display_value="VaranUtil Midserver Log parser" source="x_146833_varanut_0">af1d9ab04760211021eaf2e7536d4313</sys_package><sys_policy/><sys_scope display_value="VaranUtil Midserver Log parser">af1d9ab04760211021eaf2e7536d4313</sys_scope><sys_update_name>sys_db_object_1d9066b84760211021eaf2e7536d43a1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-01-20 04:13:49</sys_updated_on><update_access>false</update_access><user_role/><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>281562720</payload_hash>
+        <record_name>agent log payload</record_name>
+        <reverted_from/>
+        <source>271d9ab04760211021eaf2e7536d4316</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-20 04:13:50</sys_created_on>
+        <sys_id>ad90a6b84760211021eaf2e7536d430b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>185cd6200c50000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-20 04:13:50</sys_updated_on>
+        <type>Table</type>
+        <update_guid>2990a6b883602110a1cb5068d65a220b</update_guid>
+        <update_guid_history>2990a6b883602110a1cb5068d65a220b:281562720</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-20 04:15:06</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>36cd3bb4d38a459c85740a7ba5806b84</sys_id>
+        <sys_metadata>1d9066b84760211021eaf2e7536d43a1</sys_metadata>
+        <sys_name>Varanut 0 Ihub Import Alog</sys_name>
+        <sys_package display_value="VaranUtil Midserver Log parser" source="x_146833_varanut_0">af1d9ab04760211021eaf2e7536d4313</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="VaranUtil Midserver Log parser">af1d9ab04760211021eaf2e7536d4313</sys_scope>
+        <sys_scope_delete display_value="">6ccf2a51eed844c09034494e4eb89000</sys_scope_delete>
+        <sys_update_name>sys_db_object_1d9066b84760211021eaf2e7536d43a1</sys_update_name>
+        <sys_update_version display_value="sys_db_object_1d9066b84760211021eaf2e7536d43a1">ad90a6b84760211021eaf2e7536d430b</sys_update_version>
+    </sys_metadata_delete>
+</record_update>
